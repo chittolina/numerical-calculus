@@ -26,4 +26,4 @@ function [A x] = MatrixGen(n)
     A(n,n) = 1;
     A(n, n-1) = 1;
     x(n, 1) = 3;
-end
+end	 	  	 	   	      	    		  	  	      	 	

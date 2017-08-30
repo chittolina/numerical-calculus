@@ -35,4 +35,4 @@ function x = GaussElimination(A,b)
       x(i) = (A(i,n+1) - sum) / A(i,i);
     end
 
-end
+end	 	  	 	   	      	    		  	  	      	 	

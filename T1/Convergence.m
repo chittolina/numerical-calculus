@@ -1,6 +1,6 @@
 function converge = Convergence(A)
     % Length is the concatenated matrix, ie, with the constants in position n
-    n = length(A)
+    n = length(A);
     
     for i = 1 : n-1
         mainDiagonalI = A(i,i);
